@@ -34,5 +34,5 @@ jobs:
       with:
         app-name: web-IAC
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0A337B0A33404630A44B71A7BD153AA8 }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_535F0F29AB7C43EDB03961F0178DA6C2 }}
 
